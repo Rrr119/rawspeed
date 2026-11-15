@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid21958",
+  "B": "/home/dev/feedback/uid21958",
+  "sha": "2baa3a2f4d67c6d4a9b8b763dd986c3449b6f969",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "darktable-org",
+    "repo": "rawspeed",
+    "sha": "2baa3a2f4d67c6d4a9b8b763dd986c3449b6f969"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "rawspeed",
+    "cloneUrl": "https://github.com/Rrr119/rawspeed.git"
+  },
+  "at": "2026-11-15T22:54:16.869Z"
+}
